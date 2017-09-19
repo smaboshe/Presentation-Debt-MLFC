@@ -1,0 +1,34 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal p,
+.reveal ul,
+.reveal li,
+.reveal a {
+	text-shadow: 2px 2px 2px #000000;
+}
+
+
+.reveal table {
+	text-shadow: 2px 2px 5px #000000;
+}
+
+.reveal table thead {
+	font-weight: bold;
+	background: rgba(0, 0, 0, 0.75);
+	font-size: 0.85em;
+}
+
+.reveal table tbody {
+	font-size: 0.65em;
+}
+
+.reveal blockquote {
+	font-size: 0.8em;
+	line-height: 1.75em;
+	text-align: left;
+	padding: 1em;
+	background: rgba(0, 0, 0, 0.5);
+}
